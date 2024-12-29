@@ -28,7 +28,7 @@ Profili Gezen Kişi Sayısı<br>
 
 ## Github Stats 
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=egeapi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=lovesxim&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
 
 <br clear="left"/> 
 
